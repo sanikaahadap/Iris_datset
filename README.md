@@ -1,4 +1,4 @@
-# Iris_datset
+# Iris_datset_predictions
 Libraries used:
 Scipy
 Numpy
